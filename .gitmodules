@@ -1,0 +1,3 @@
+[submodule "params/estimator"]
+	path = params/estimator
+	url = git@github.com:malb/lattice-estimator.git
